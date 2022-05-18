@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+.light {
+  background-color: #d494c1;
+  color: white;
+  width: 100vw;
+  height: 100vh;
+}
+
+.dark {
+  background-color: #2c323d;
+  color: white;
+  width: 100vw;
+  height: 100vh;
+}
